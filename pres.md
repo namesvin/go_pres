@@ -27,7 +27,7 @@ footer: "Tamás Vince | Berényi Bence | Susa Milán Mihály | Tóth Kristóf An
 [doggy]: brands/doge.png
 ![w:1000 center][logo]
 
-# <center>Egy technológiára épülő társasjáték :D</center>
+# <center>Egy technológiára épülő társasjáték</center>
 
 ---
 
