@@ -1,0 +1,19 @@
+CPU
+bad - 25k - 10p
+mid - 80k - 20p
+good - 200k - 30p
+
+GPU
+bad - 50k - 10p
+mid - 150k - 25p
+good - 500k - 40p
+
+RAM
+bad - 10k - 5p
+mid - 70k - 10p
+good - 150k - 20p
+
+CASE
+bad - 20k - 0p
+mid - 50k - 5p
+good - 150k - 10p
